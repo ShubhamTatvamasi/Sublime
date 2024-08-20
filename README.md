@@ -3,14 +3,5 @@
 Sublime settings file
 
 ```bash
-sudo ghex /opt/sublime_text/sublime_text
+sudo sed -i 's/\x80\x79\x05\x00\x0F\x94\xC2/\xC6\x41\x05\x01\xB2\x00\x90/' /opt/sublime_text/sublime_text
 ```
-
-```
-# Search
-80 78 05 00 0F 94 C1
-
-# Replace
-C6 40 05 01 48 85 C9
-```
-
