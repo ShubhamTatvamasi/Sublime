@@ -3,7 +3,7 @@
 Sublime settings file
 
 ```bash
-sudo bless /opt/sublime_text/sublime_text
+sudo ghex /opt/sublime_text/sublime_text
 ```
 
 ```
